@@ -7,6 +7,8 @@ A GYM Website made with React.js Framework.
 
 https://
 
+![pt-3](https://github.com/ajaychaurasiya-cs/FREDDY-GYM/assets/154124190/3f155f14-9ac1-4665-83e1-7e0b7587d26b)
+
 ## Features
 
 - Easy to integrate with Backend
